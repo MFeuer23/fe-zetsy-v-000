@@ -34,6 +34,9 @@ h1 {
 
 h2 {
   color: rgb(111, 127, 122);
+  font-size: 1.5em;
+  display: block;
+  
 }
 
 h1 a {
