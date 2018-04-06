@@ -53,9 +53,9 @@ h1 + img {
 }
 
 img {
-  border: 5px rgb(238, 238, 238) solid;
+  border: 5px rgb(221, 221, 221) solid;
 }
 
-.press-images a:hover {
+#press a:hover {
   border: 5px rgb(111, 127, 122) solid
 }
