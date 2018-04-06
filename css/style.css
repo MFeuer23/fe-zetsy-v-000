@@ -53,5 +53,9 @@ img {
 }
 
 .press-images img{
-  border: 5px rgb(152,173,166) solid
+  border: 5px rgb(221, 221, 221) solid;
+}
+
+.press-images a:hover {
+  border: 5px rgb(111, 127, 122) solid
 }
