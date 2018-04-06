@@ -56,6 +56,6 @@ img {
   border: 5px rgb(221, 221, 221) solid;
 }
 
-#press a:hover {
+img:hover {
   border: 5px rgb(111, 127, 122) solid
 }
